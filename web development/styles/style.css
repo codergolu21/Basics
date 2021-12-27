@@ -1,0 +1,21 @@
+h1 {
+    font-family: sans-serif;
+     text-align:center ; 
+     color:rgb(170, 25, 25);
+ }
+p {
+font-family:fira sans ,sans-serif ;
+ text-align : center;
+ color: rgb(37, 84, 155);
+}
+a:hover {
+ text-decoration: underline;
+}
+#todays-challenge {
+    color: rgb(37, 84, 155);
+    font-weight: bold;
+    font-size: 30px;
+}
+
+
+   

@@ -1,0 +1,35 @@
+li{
+    list-style: none;
+    font-size: 15px;
+    padding: 12px 48px;
+    margin: 32px;
+    background-color: rgb(210, 181, 235);
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.2) ;
+
+
+}
+h2{
+    font-size: 24px;
+    color: rgb(71,62,62);
+    margin: 12px 0;
+}
+main {
+    margin: 12px;
+    font-size: 24px;
+    color: rgb(71,29,22);
+}
+.highlight-goal{
+    background-color: rgb(3,222,134);
+}
+#description {
+    margin: 8px;
+    font-size: 24px;
+    color: rgb(71,29,22);
+} 
+ul {
+    list-style: none;
+    width: 500px;
+    margin: 36px auto 0 auto;
+    padding: 0;
+
+}
